@@ -1,6 +1,6 @@
-this project is related to machine learning
-this is a supervised machine learning model
-it is a regression task
+this project is related to machine learning<br>
+this is a supervised machine learning model<br>
+it's a regression task<br>
 
-we use pandas, numpy, scikit learn, metplotlib libraries in it
-we use MRSE evalution technique to evaluate the efficieency of our model
+we use pandas, numpy, scikit learn, metplotlib libraries in it<br>
+we use MRSE evalution technique to evaluate the efficiency of our model
